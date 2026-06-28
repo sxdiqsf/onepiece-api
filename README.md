@@ -14,12 +14,12 @@ Characters, chapters, episodes, arcs, bounties, Devil Fruits, lore and more — 
 
 **1. Get a free API key**
 
-Visit [API Docs](https://onepiece-api-for-sadiq-production.up.railway.app/api-docs.html) → Sign up → Generate key from dashboard.
+Visit [API Docs](https://api.dendenmushi.space/api-docs.html) → Sign up → Generate key from dashboard.
 
 **2. Make your first call**
 
 ```bash
-curl https://onepiece-api-for-sadiq-production.up.railway.app/v1/character/Nami \
+curl https://api.dendenmushi.space/v1/character/Nami \
   -H "X-API-Key: ddm_free_your_key_here"
 ```
 
@@ -79,7 +79,7 @@ X-RateLimit-Reset: 2026-06-28T23:59:59Z
 
 ## 🔑 Get an API Key
 
-1. Visit the [API Docs](https://onepiece-api-for-sadiq-production.up.railway.app/api-docs.html)
+1. Visit the [API Docs](https://api.dendenmushi.space/api-docs.html)
 2. Click **Get Free API Key**
 3. Sign up with your email and password
 4. Log in and generate your key from the dashboard
