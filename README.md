@@ -6,15 +6,7 @@
 
 ## 🌊 What's in the dataset?
 
-| Type | Count |
-|------|-------|
-| Characters | 1,548 |
-| Chapters | 1,186 |
-| Episodes | 1,031 |
-| Arcs | 49 |
-| **Total pages** | **3,859** |
-
-Coverage: Chapters 1–1185 · Episodes 1–1031 · up to the Elbaph Arc.
+Characters, chapters, episodes, arcs, bounties, Devil Fruits, lore and more — covering the One Piece universe up to the Elbaph Arc.
 
 ---
 
