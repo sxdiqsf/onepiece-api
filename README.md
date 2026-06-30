@@ -62,14 +62,14 @@ X-API-Key: ddm_free_your_key_here
 
 | Tier | Requests/day | Price |
 |------|-------------|-------|
-| 🟢 Free | 5 | Free forever |
+| 🟢 Free | 3 | Free forever |
 | 🔵 Basic | 1,000 | Coming soon |
 | 🟡 Pro | 10,000 | Coming soon |
 
 Every response includes rate limit headers:
 
 ```
-X-RateLimit-Limit: 5
+X-RateLimit-Limit: 3
 X-RateLimit-Used: 1
 X-RateLimit-Remaining: 4
 X-RateLimit-Reset: 2026-06-28T23:59:59Z
